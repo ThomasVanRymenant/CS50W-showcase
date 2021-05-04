@@ -51,6 +51,7 @@ This **readme** is meant to serve as a brief and visual overview of the projects
 1. An eBay-like e-commerce auction site that allows users to post auction listings, place bids on listings, comment on those listings, and add listings to a “watchlist”.
 
 [![a demo of a wiki app](http://img.youtube.com/vi/UX2rSODht-8/0.jpg)](https://www.youtube.com/watch?v=UX2rSODht-8 "CS50 Web | Project 2 - Commerce")
+
 2. The Django framework and its models and forms, HTML, bootstrap, CSS
 3. * Python
    * Django
