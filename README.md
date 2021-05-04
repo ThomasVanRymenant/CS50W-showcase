@@ -19,7 +19,7 @@ This **readme** is meant to serve as a brief and visual overview of the projects
 <div style="border-bottom: 1px solid #ADADAD;">
 </div>
 
-<h3 id="search">Project 0 - Search</h3>
+<h2 id="search">Project 0 - Search</h2>
 
 1. Design of a front-end for Google Search, Google Image Search, and Google Advanced Search.
 [![a demo of a wiki app](http://img.youtube.com/vi/9GpWIUJW97E/0.jpg)](https://www.youtube.com/watch?v=9GpWIUJW97E "CS50W Project 0 - Search | Web Programming with Python and JavaScript")
@@ -31,7 +31,7 @@ This **readme** is meant to serve as a brief and visual overview of the projects
 <div style="border-bottom: 1px solid #ADADAD;">
 </div>
 
-<h3 id="wiki">Project 1 - Wiki</h3>
+<h2 id="wiki">Project 1 - Wiki</h2>
 
 1. An online Wikipedia-like encyclopedia that allows users to create, edit and search for entries on various topics.
 [![a demo of a wiki app](http://img.youtube.com/vi/t_FKFZ3Xt_0/0.jpg)](https://www.youtube.com/watch?v=t_FKFZ3Xt_0 "CS50W Project 1 - Wiki")
@@ -46,7 +46,7 @@ This **readme** is meant to serve as a brief and visual overview of the projects
 <div style="border-bottom: 1px solid #ADADAD;">
 </div>
 
-<h3 id="commerce">Project 2 - Commerce</h3>
+<h2 id="commerce">Project 2 - Commerce</h2>
 
 1. An eBay-like e-commerce auction site that allows users to post auction listings, place bids on listings, comment on those listings, and add listings to a “watchlist”.
 [![a demo of a wiki app](http://img.youtube.com/vi/UX2rSODht-8/0.jpg)](https://www.youtube.com/watch?v=UX2rSODht-8 "CS50 Web | Project 2 - Commerce")
@@ -61,7 +61,7 @@ This **readme** is meant to serve as a brief and visual overview of the projects
 <div style="border-bottom: 1px solid #ADADAD;">
 </div>
 
-<h3 id="mail">Project 3 - Mail</h3>
+<h2 id="mail">Project 3 - Mail</h2>
 
 1. A front-end design for an email client that makes API calls to send and receive emails.
 [![a demo of a wiki app](http://img.youtube.com/vi/_PS5bXFijz4/0.jpg)](https://www.youtube.com/watch?v=_PS5bXFijz4 "CS50W Project 3 - Mail")
@@ -77,7 +77,7 @@ This **readme** is meant to serve as a brief and visual overview of the projects
 <div style="border-bottom: 1px solid #ADADAD;">
 </div>
 
-<h3 id="commerce">Project 4 - Network</h3>
+<h2 id="network">Project 4 - Network</h2>
 
 1. A social network that allows users to make posts, follow other users, and "like" posts.
 [![a demo of a wiki app](http://img.youtube.com/vi/NCHKfeToU2g/0.jpg)](https://www.youtube.com/watch?v=NCHKfeToU2g "CS50W Project 4 - Network")
