@@ -22,7 +22,9 @@ This **readme** is meant to serve as a brief and visual overview of the projects
 <h2 id="search">Project 0 - Search</h2>
 
 1. Design of a front-end for Google Search, Google Image Search, and Google Advanced Search.
+
 [![a demo of a wiki app](http://img.youtube.com/vi/9GpWIUJW97E/0.jpg)](https://www.youtube.com/watch?v=9GpWIUJW97E "CS50W Project 0 - Search | Web Programming with Python and JavaScript")
+
 2. Using css to replicate google's looks, making smart use of input-fields becoming GET-parameters on form-submission
 3. * HTML
    * CSS
@@ -34,9 +36,11 @@ This **readme** is meant to serve as a brief and visual overview of the projects
 <h2 id="wiki">Project 1 - Wiki</h2>
 
 1. An online Wikipedia-like encyclopedia that allows users to create, edit and search for entries on various topics.
+
 [![a demo of a wiki app](http://img.youtube.com/vi/t_FKFZ3Xt_0/0.jpg)](https://www.youtube.com/watch?v=t_FKFZ3Xt_0 "CS50W Project 1 - Wiki")
-3. The Django framework and its models and forms, markdown language, bootstrap
-2. * Python
+
+2. The Django framework and its models and forms, markdown language, bootstrap
+3. * Python
    * Django
    * HTML
    * Bootstrap
@@ -50,7 +54,7 @@ This **readme** is meant to serve as a brief and visual overview of the projects
 
 1. An eBay-like e-commerce auction site that allows users to post auction listings, place bids on listings, comment on those listings, and add listings to a “watchlist”.
 
-  [![a demo of a wiki app](http://img.youtube.com/vi/UX2rSODht-8/0.jpg)](https://www.youtube.com/watch?v=UX2rSODht-8 "CS50 Web | Project 2 - Commerce")
+[![a demo of a wiki app](http://img.youtube.com/vi/UX2rSODht-8/0.jpg)](https://www.youtube.com/watch?v=UX2rSODht-8 "CS50 Web | Project 2 - Commerce")
 
 2. The Django framework and its models and forms, HTML, bootstrap, CSS
 3. * Python
@@ -66,9 +70,11 @@ This **readme** is meant to serve as a brief and visual overview of the projects
 <h2 id="mail">Project 3 - Mail</h2>
 
 1. A front-end design for an email client that makes API calls to send and receive emails.
+
 [![a demo of a wiki app](http://img.youtube.com/vi/_PS5bXFijz4/0.jpg)](https://www.youtube.com/watch?v=_PS5bXFijz4 "CS50W Project 3 - Mail")
-3. Making API calls, using Javascript for AJAX and the populating and switching of views, using JSON as a transport-format
-2. * Python
+
+2. Making API calls, using Javascript for AJAX and the populating and switching of views, using JSON as a transport-format
+3. * Python
    * Javascript
    * AJAX
    * HTML
