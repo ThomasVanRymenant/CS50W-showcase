@@ -2,7 +2,7 @@ This **readme** is meant to serve as a brief and visual overview of the projects
 
 <span style="color: #5F6974; font-style: italic">In regard for the course's <span style="font-weight: bold;">code of honor</span>, the actual code itself will not be made public on github. Viewing the code of the solutions can be made possible through less public means.</span>
 
-#####The projects provided in this overview:
+**The projects provided in this overview:**
 * Project 0: [Search](#search)
 * Project 1: [Wiki](#wiki)
 * Project 2: [Commerce](#commerce)
@@ -10,13 +10,13 @@ This **readme** is meant to serve as a brief and visual overview of the projects
 * Project 4: [Network](#network)
 * Capstone project: in progress and not included in this overview.
 
-#####For each individual project's overview, the following structure will be used:
+**For each individual project's overview, the following structure will be used:**
 1. Brief description & a preview-link to the project's demo on youtube
 2. Main aspects the project revolve around
 3. The echnologies that were used in the solution
 4. A link to the project's official assignment, as it is seen by the course's students
 
-<div style="border-bottom: 1px solid #BEBEBE;">
+<div style="border-bottom: 1px solid #ADADAD;">
 </div>
 
 <h3 id="search">Project 0 - Search</h3>
@@ -28,7 +28,7 @@ This **readme** is meant to serve as a brief and visual overview of the projects
    * CSS
 4. [Search assignment](https://cs50.harvard.edu/web/2020/projects/0/search/), provided by Harvard.
 
-<div style="border-bottom: 1px solid #BEBEBE;">
+<div style="border-bottom: 1px solid #ADADAD;">
 </div>
 
 <h3 id="wiki">Project 1 - Wiki</h3>
@@ -43,7 +43,7 @@ This **readme** is meant to serve as a brief and visual overview of the projects
    * CSS
 4. [Wiki assignment](https://cs50.harvard.edu/web/2020/projects/1/wiki/), provided by Harvard.
 
-<div style="border-bottom: 1px solid #BEBEBE;">
+<div style="border-bottom: 1px solid #ADADAD;">
 </div>
 
 <h3 id="commerce">Project 2 - Commerce</h3>
@@ -58,7 +58,7 @@ This **readme** is meant to serve as a brief and visual overview of the projects
    * CSS
 4. [Commerce assignment](https://cs50.harvard.edu/web/2020/projects/2/commerce/), provided by Harvard.
 
-<div style="border-bottom: 1px solid #BEBEBE;">
+<div style="border-bottom: 1px solid #ADADAD;">
 </div>
 
 <h3 id="mail">Project 3 - Mail</h3>
@@ -74,7 +74,7 @@ This **readme** is meant to serve as a brief and visual overview of the projects
    * CSS
 4. [Mail assignment](https://cs50.harvard.edu/web/2020/projects/3/mail/), provided by Harvard.
 
-<div style="border-bottom: 1px solid #BEBEBE;">
+<div style="border-bottom: 1px solid #ADADAD;">
 </div>
 
 <h3 id="commerce">Project 4 - Network</h3>
