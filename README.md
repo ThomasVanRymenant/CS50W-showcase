@@ -71,6 +71,7 @@ This **readme** is meant to serve as a brief and visual overview of the projects
 
 1. A front-end design for an email client that makes API calls to send and receive emails.
 
+
 [![a demo of a wiki app](http://img.youtube.com/vi/_PS5bXFijz4/0.jpg)](https://www.youtube.com/watch?v=_PS5bXFijz4 "CS50W Project 3 - Mail")
 
 2. Making API calls, using Javascript for AJAX and the populating and switching of views, using JSON as a transport-format
