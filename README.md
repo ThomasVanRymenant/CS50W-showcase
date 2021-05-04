@@ -1,6 +1,6 @@
 This **readme** is meant to serve as a brief and visual overview of the projects that were made by me, as a solution to each project assignment of **CS50’s Web Programming with Python and JavaScript** course, provided by **Harvard University**. 
 
-<span style="color: #5F6974; font-style: italic">In regard for the course's <span style="font-weight: bold;">code of honor</span>, the actual code itself will not be made public on github. Viewing the code of the solutions can be made possible through less public means.</span>
+<span style="color: #5F6974; font-style: italic">In regard for the course's <span style="font-weight: bold;">**code of honor**</span>, the actual code itself will not be made public on github. Viewing the code of the solutions can be made possible through less public means.</span>
 
 **The projects provided in this overview:**
 * Project 0: [Search](#search)
