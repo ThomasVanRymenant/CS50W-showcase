@@ -10,7 +10,7 @@ This **readme** is meant to serve as a brief and visual overview of the projects
 * Project 4: [Network](#network)
 * Capstone project: in progress and not included in this overview.
 
-**For each individual project's overview, the following structure will be used:**
+**For each individual project overview, the following structure will be used:**
 1. Brief description & a preview-link to the project's demo on youtube
 2. Main aspects the project revolve around
 3. The technologies that were used in the solution
